@@ -1,0 +1,128 @@
+<dialogue>
+
+  <actor name="bartender">
+  
+    <dialogueSet setId="0">
+	 <line id="0">...</line>
+     <line id="1" branchInfo="1/0">Can I get a beer?</line>
+	 <line id="2" branchInfo="2/0">I would like to have salmari</line>
+     <line id="3" branchInfo="3/0">[Sarcasm]</line>
+	 <line id="4">Bye</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="1">
+	 <line id="0">Sorry, you have to wait in a line. This guy is ordering *points at the man near the bar*</line>
+     <line id="1" branchInfo="2/0">Like hell I'm going to wait!</line>
+	 <line id="2" branchInfo="4/0">Guess I should wait</line>
+     <line id="3" branchInfo="4/0">What were you saying?</line>
+	 <line id="4">Bye</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="2">
+	 <line id="0">Get out of my bar!</line>
+     <line id="1" branchInfo="4/0">Sorry, man</line>
+	 <line id="2" branchInfo="4/0">I'll wait</line>
+     <line id="3" branchInfo="4/0">Tell me about...</line>
+	 <line id="4">Bye</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="3">
+	 <line id="0">What does that suppose to mean?</line>
+     <line id="1" branchInfo="4/0">You can't be serious</line>
+	 <line id="2" branchInfo="4/0">I'm Todd howard and Fallout 4 is my favourite game</line>
+     <line id="3" branchInfo="4/0">Let's start over</line>
+	 <line id="4">Bye</line>
+	</dialogueSet>
+	
+	
+	<dialogueSet setId="5">
+	 <line id="0">...</line>
+     <line id="1" branchInfo="1/0">Can I get a beer?</line>
+	 <line id="2" branchInfo="2/0">I would like to have salmari</line>
+     <line id="3" branchInfo="3/0">[Sarcasm]</line>
+	 <line id="4">Bye</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="10">
+	 <line id="0">What sould I get you?</line>
+     <line id="1" branchInfo="2/0">I will get a beer.</line>
+	 <line id="2" branchInfo="0/0">A glass of water.</line>
+     <line id="3" branchInfo="10/0">What were you saying?</line>
+	 <line id="4">Bye</line>
+	</dialogueSet>
+  </actor>
+  
+  <actor name="chester">
+  
+    <dialogueSet setId="0">
+	 <line id="0">Oh man, what should I get...</line>
+     <line id="1"  branchInfo="1/0">Why don't you just take a beer?</line>
+	 <line id="2"  branchInfo="2/0">What about white russian? It's a very nice beverage.</line>
+     <line id="3"  branchInfo="3/0">Apple martini?</line>
+	 <line id="4">You keep thinking</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="1">
+	 <line id="0" >Nah, man, I'm in Kontula, why should I even take a beer?</line>
+     <line id="1" branchInfo="10/0">*say nothing*</line>
+	 <line id="2" branchInfo="10/0">Are you serious?</line>
+     <line id="3" branchInfo="10/0">What about...</line>
+	 <line id="4">I'm really getting tired of you</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="2">
+	 <line id="0" >Well, that's, just like, your opinion, man. I hate those. </line>
+     <line id="1" branchInfo="10/0">What about...</line>
+	 <line id="2" branchInfo="10/0">What about...</line>
+     <line id="3" branchInfo="10/0">What about...</line>
+	 <line id="4">I'm really getting tired of you</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="3">
+	 <line id="0" >Pff, are you serious? That stuff is for girls!</line>
+     <line id="1" branchInfo="10/0">You are the girl.</line>
+	 <line id="2" branchInfo="10/0">What about...</line>
+     <line id="3" branchInfo="10/0">What about...</line>
+	 <line id="4">I'm really getting tired of you, you know that?</line>
+	</dialogueSet>
+	
+  </actor>
+  
+  <actor name="buffalo">
+  
+    <dialogueSet setId="0">
+	 <line id="0"></line>
+     <line id="1" branchInfo="1/0">Do you know what did this guy tell about your mom?</line>
+	 <line id="2"></line>
+     <line id="3"></line>
+	 <line id="4">It's nothing.</line>
+	</dialogueSet>
+	
+	
+	<dialogueSet setId="1">
+	 <line id="0">Wh~... who... who did say anything about my mother?!</line>
+     <line id="1" branchInfo="11/0">This guy *point at man near the bar*</line>
+	 <line id="2">This guy *point at bartender*</line>
+     <line id="3">This guy *point at yourself*</line>
+	 <line id="4">A, ugh, I've heard she is a very beautiful woman.</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="10">
+	 <line id="0">You are a good guy, I like you!</line>
+     <line id="1" ></line>
+	 <line id="2"></line>
+     <line id="3"></line>
+	 <line id="4">I should go...</line>
+	</dialogueSet>
+	
+	<dialogueSet setId="11">
+	 <line id="0">Ha! Did you see how I smashed hos face?</line>
+     <line id="1" >Yeah! You are strong indeed.</line>
+	 <line id="2">Would you like a beer?</line>
+     <line id="3"></line>
+	 <line id="4">Yeah, I guess, you showed him.</line>
+	</dialogueSet>
+	
+  </actor>
+ 
+</dialogue>
